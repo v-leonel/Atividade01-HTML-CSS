@@ -1,0 +1,27 @@
+.div-a{
+    background-color: #ff00d0;
+    width: 650px;
+    height: 478px;
+}
+.div-b{
+    background-color: #ffff00;
+    height: 60%;
+    width: 80%;
+}
+.frase-c{
+    color: #ff0000;
+    background-color: rgb(0, 0, 0);
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: normal;
+}
+.div-d{
+    width: 45%;
+    height: 90vh;
+    background-color: #9c7944ce;
+}
+.div-e{
+    width: 35vw;
+    height: 30%;
+    background-color: #643908;
+}
